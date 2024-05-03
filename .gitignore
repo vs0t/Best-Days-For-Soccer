@@ -1,0 +1,31 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore build output
+/target/
+/build/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+
+
+
+
+
+
+
+/target/
+/build/
