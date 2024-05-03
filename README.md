@@ -4,6 +4,11 @@ A basic Python script, using tkinter, requests, and datetime to call an api to r
 
 The script calculates the best date and time to play for the next 15 days, per hour. These are also graded by `Good`, `Great`, or `Best`. Good refers to when the tempurature in `F` is between `65 and 85`; and also less than `60% humidity`, and bewtween a `0 - 10 percent chance of precipitation`. Great is when the temp is `greater than 75` and also `in the humidity range`. Great is when the temp is `greater than 75` and the `humidity is less than 50%`.
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/vs0t/Best-Days-For-Soccer/assets/125901041/55dc2102-f2c7-449f-ac31-a50bfe0ddc61" alt="placeholder">
+</p>
 
 
 ## Installation
@@ -54,8 +59,3 @@ This is a very simple script, I mostly made this to to re-learn some forgotten P
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Screenshots
-
-![placeholder](https://github.com/vs0t/Best-Days-For-Soccer/assets/125901041/55dc2102-f2c7-449f-ac31-a50bfe0ddc61)
