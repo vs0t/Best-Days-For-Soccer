@@ -58,5 +58,4 @@ This is a very simple script, I mostly made this to to re-learn some forgotten P
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![placeholder](https://github.com/vs0t/Best-Days-For-Soccer/assets/125901041/55dc2102-f2c7-449f-ac31-a50bfe0ddc61)
