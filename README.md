@@ -2,7 +2,7 @@
 
 A basic Python script, using tkinter, requests, and datetime to call an api to return weather data for your entered city and state. 
 
-The script calculates the best date and time to play for the next 15 days, per hour. These are also graded by `Good`, `Great`, or `Best`. Good refers to when the tempurature in `F` is between `65 and 85`; and also less than `60% humidity`, and bewtween a `0 - 10 percent chance of precipitation`. Great is when the temp is `greater than 75` and also `in the humidity range`. Great is when the temp is `greater than 75` and the `humidity is less than 50%`.
+The script calculates the best date and time to play for the next 15 days, per hour. These are also graded by `Good`, `Great`, or `Best`. Good refers to when the temperature in `F` is between `65 and 85`; and also less than `60% humidity`, and between a `0 - 10 percent chance of precipitation`. Great is when the temp is `greater than 75` and also `in the humidity range`. Great is when the temp is `greater than 75` and the `humidity is less than 50%`.
 
 ## Screenshots
 
@@ -44,7 +44,7 @@ python main.py
 
 Enter City and State, and click "Get Results"
 
-From here, it will peform the caluclation. If no good times are found, it lets the user know. If their is, it will display it initially, also displaying additional buttons to query search results
+From here, it will perform the caluclation. If no good times are found, it lets the user know. If there is, it will display it initially, also displaying additional buttons to query search results
 
 
 ## Appendix
